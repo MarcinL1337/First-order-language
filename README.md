@@ -1,2 +1,2 @@
 # Boolean-expressions
-Implementation of a parser and evaluator for boolean expressions written in Plait (typed Racket) language.
+Implementation of a parser and evaluator for first order language expressions written in Plait (typed Racket) language.
